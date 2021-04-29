@@ -4,5 +4,11 @@ margin-left: 50%;
 
 .content {
     display: flex;
+    flex-wrap: wrap;
+}
+
+.block {
+    width: 25%;
+margin-bottom: 30px;
 
 }
